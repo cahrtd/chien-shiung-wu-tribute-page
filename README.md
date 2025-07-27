@@ -11,3 +11,5 @@ Built as part of a web development learning challenge.
 ## Notes
 This project was built with platform limitations, so it has some flaws I’m aware of.  
 I plan to revisit and improve (or not lol) it as my skills grow.
+
+The textual content was generated using ChatGPT to allow me to focus more on the code implementation and design.
